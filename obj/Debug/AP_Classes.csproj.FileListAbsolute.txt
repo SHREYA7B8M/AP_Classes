@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Classes\AP_Classes\bin\Debug\AP_Classes.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Classes\AP_Classes\bin\Debug\AP_Classes.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Classes\AP_Classes\bin\Debug\AP_Classes.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Classes\AP_Classes\obj\Debug\AP_Classes.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Classes\AP_Classes\obj\Debug\AP_Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Classes\AP_Classes\obj\Debug\AP_Classes.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Classes\AP_Classes\obj\Debug\AP_Classes.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Classes\AP_Classes\obj\Debug\AP_Classes.pdb
